@@ -29,5 +29,3 @@ The R scripts are creative commons attribution 4.0. Do what you like with them.
 I've included an example Meter.db database with a couple of my trips so the script will work from the get-go. The structure of this database will be copyright Abvio (http://abvio.com/), the makers of Cyclemeter.
 
 Jon.J.Sullivan@me.com
-
-I've blogged about this at http://jonsullivan.canterburynature.org/?p=601
